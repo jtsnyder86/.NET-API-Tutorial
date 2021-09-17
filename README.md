@@ -1,6 +1,6 @@
-# .NET REST API
+# Explore REST APIs with .NET and C#
 
-Now that you have a handle on basic syntax, we're going to look more closely at how to apply that to making a REST API server.
+Now that you have a handle on the basic syntax, we're going to look more closely at how to apply those skills to making a REST API server.
 
 ## Objectives
 
