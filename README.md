@@ -17,6 +17,8 @@ Use the research skills you have developed this week to help you with this assig
 
 A good starting place is [this tutorial from Microsoft](https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/).
 
+> **NOTE:** This tutorial asks you to install the `httprepl` tool. If you are having trouble installing this tool **use Postman** instead to make API Requests.
+
 ## Base
 
 Our client, See Sharp Eyewear, is migrating their code base to C#. We will be creating a REST API for them.
