@@ -12,7 +12,7 @@ Now that you have a handle on the basic syntax, we're going to look more closely
 Use the research skills you have developed this week to help you with this assignment. Just make sure that any resources you are referencing:
 
 - Use .NET to build the API server
-- Use the `dotnet` CLI tool to generate the your starter code (also called "scaffolding").
+- Use the `dotnet` CLI tool to generate the starter code (also called "scaffolding").
 - Do **not** use a database connection or Entity Framework (we will learn how to do this later).
 
 A good starting place is [this tutorial from Microsoft](https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/).
