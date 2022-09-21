@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIc4lzTtE7AOsGw8+ORVXOjobWfz3DngSL5EfnImjM7CX5JKFhfqtxm1/Pxd2BY76JUB3Of689ffWwKkuAjNgQ==",
+  "success": true,
+  "projectFilePath": "/Users/joshuasnyder/Desktop/Prime-academy/Tier-3/explore-dotnet-rest-api/explore-dotnet-rest-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshuasnyder/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/joshuasnyder/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/joshuasnyder/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/joshuasnyder/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/joshuasnyder/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/joshuasnyder/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
